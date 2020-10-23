@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Joel Kirchartz, I do lots of stuff online and share almost all of my code.
+
+[Find me in the tildeverse.](http://tilde.town/~kirch/)
+
 <!--
 **JKirchartz/JKirchartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/JKirchartz/count.svg)
