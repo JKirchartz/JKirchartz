@@ -2,7 +2,7 @@
 
 I'm Joel Kirchartz, I do lots of stuff online and share almost all of my code.
 
-[Find me in the tildeverse.](http://tilde.town/~kirch/)
+[Find me Online.](http://jkirchartz.com)
 
 <!--
 **JKirchartz/JKirchartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
